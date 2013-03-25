@@ -1,4 +1,4 @@
-media-query-reporter
+Media query reporter
 ====================
 
-Super simpel css media query reporter
+Super simple css media query reporter. 
