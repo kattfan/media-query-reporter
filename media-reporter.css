@@ -22,7 +22,7 @@ body:after {
 @media only screen and (min-width: 480px) {
 	body:after {
 		background: rgba(0,0,255,0.3);
-		content: "480px to 760px";
+		content: "480px to 768px";
 	}
 }
 
