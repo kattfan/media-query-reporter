@@ -36,6 +36,6 @@ body:after {
 @media only screen and (min-width: 1024px) {
 	body:after {
 		background: rgba(255,0,255,0.3);
-		content: "1024 and beoynd";
+		content: "1024 and beyond";
 	}
 }
